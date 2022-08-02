@@ -1,0 +1,8 @@
+E:\DotNet\Day-4\ECommerce\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\DotNet\Day-4\ECommerce\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\DotNet\Day-4\ECommerce\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\DotNet\Day-4\ECommerce\ConsoleApp1\obj\Debug\CSFeaturesDempApp.csproj.AssemblyReference.cache
+E:\DotNet\Day-4\ECommerce\ConsoleApp1\obj\Debug\CSFeaturesDempApp.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\Day-4\ECommerce\ConsoleApp1\obj\Debug\CSFeaturesDempApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-4\ECommerce\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\DotNet\Day-4\ECommerce\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

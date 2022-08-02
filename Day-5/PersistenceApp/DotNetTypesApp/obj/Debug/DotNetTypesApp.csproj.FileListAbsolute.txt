@@ -1,0 +1,16 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\DotNetTypesApp\bin\Debug\DotNetTypesApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\DotNetTypesApp\bin\Debug\DotNetTypesApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\DotNetTypesApp\bin\Debug\DotNetTypesApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.pdb
+E:\DotNet\Day-5\PersistenceApp\DotNetTypesApp\bin\Debug\DotNetTypesApp.exe.config
+E:\DotNet\Day-5\PersistenceApp\DotNetTypesApp\bin\Debug\DotNetTypesApp.exe
+E:\DotNet\Day-5\PersistenceApp\DotNetTypesApp\bin\Debug\DotNetTypesApp.pdb
+E:\DotNet\Day-5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.csproj.AssemblyReference.cache
+E:\DotNet\Day-5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\Day-5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.exe
+E:\DotNet\Day-5\PersistenceApp\DotNetTypesApp\obj\Debug\DotNetTypesApp.pdb

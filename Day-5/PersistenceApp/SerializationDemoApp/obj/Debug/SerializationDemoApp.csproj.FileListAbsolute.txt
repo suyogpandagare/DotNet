@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\SerializationDemoApp\bin\Debug\SerializationDemoApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\SerializationDemoApp\bin\Debug\SerializationDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\SerializationDemoApp\bin\Debug\SerializationDemoApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\SerializationDemoApp\obj\Debug\SerializationDemoApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\SerializationDemoApp\obj\Debug\SerializationDemoApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\SerializationDemoApp\obj\Debug\SerializationDemoApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\SerializationDemoApp\obj\Debug\SerializationDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_5\PersistenceApp\SerializationDemoApp\obj\Debug\SerializationDemoApp.pdb

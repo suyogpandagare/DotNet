@@ -1,0 +1,11 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\bin\Debug\StoreManagerApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\bin\Debug\StoreManagerApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\bin\Debug\StoreManagerApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\obj\Debug\StoreManagerApp.Form1.resources
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\obj\Debug\StoreManagerApp.Properties.Resources.resources
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.GenerateResource.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\obj\Debug\StoreManagerApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\obj\Debug\StoreManagerApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\StoreManagerApp\obj\Debug\StoreManagerApp.pdb

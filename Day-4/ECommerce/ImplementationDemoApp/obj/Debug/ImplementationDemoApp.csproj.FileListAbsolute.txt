@@ -1,0 +1,8 @@
+E:\DotNet\Day-4\ECommerce\ImplementationDemoApp\bin\Debug\ImplementationDemoApp.exe.config
+E:\DotNet\Day-4\ECommerce\ImplementationDemoApp\bin\Debug\ImplementationDemoApp.exe
+E:\DotNet\Day-4\ECommerce\ImplementationDemoApp\bin\Debug\ImplementationDemoApp.pdb
+E:\DotNet\Day-4\ECommerce\ImplementationDemoApp\obj\Debug\ImplementationDemoApp.csproj.AssemblyReference.cache
+E:\DotNet\Day-4\ECommerce\ImplementationDemoApp\obj\Debug\ImplementationDemoApp.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\Day-4\ECommerce\ImplementationDemoApp\obj\Debug\ImplementationDemoApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-4\ECommerce\ImplementationDemoApp\obj\Debug\ImplementationDemoApp.exe
+E:\DotNet\Day-4\ECommerce\ImplementationDemoApp\obj\Debug\ImplementationDemoApp.pdb

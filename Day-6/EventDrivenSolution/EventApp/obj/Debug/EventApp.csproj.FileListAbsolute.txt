@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\EventApp\bin\Debug\EventApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\EventApp\bin\Debug\EventApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\EventApp\bin\Debug\EventApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\EventApp\obj\Debug\EventApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\EventApp\obj\Debug\EventApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\EventApp\obj\Debug\EventApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\EventApp\obj\Debug\EventApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\EventApp\obj\Debug\EventApp.pdb

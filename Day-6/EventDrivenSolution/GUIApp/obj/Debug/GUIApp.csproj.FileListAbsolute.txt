@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\GUIApp\bin\Debug\GUIApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\GUIApp\bin\Debug\GUIApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\GUIApp\bin\Debug\GUIApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\GUIApp\obj\Debug\GUIApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\GUIApp\obj\Debug\GUIApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\GUIApp\obj\Debug\GUIApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\GUIApp\obj\Debug\GUIApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_6\EventDrivenSolution\GUIApp\obj\Debug\GUIApp.pdb
