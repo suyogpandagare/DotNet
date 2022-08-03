@@ -1,0 +1,42 @@
+﻿<!-- asp, php, jsp   server side pages-->
+<!---  cshtml  -----------C#  View-->
+<!--   vbhtml   ---------- VB  View-->
+<!--   Razor File  View (server side View)-->
+<!-- extension  as .cshtml-->
+<!--   CS + HTML-->
+@{
+    //server side
+    ViewBag.Title = "Index";
+    int count = 45;
+    for (int i = 0; i <= 7; i++)
+    {
+        count = count + i;
+    }
+}
+
+
+<!-- Client Side-->
+<h2>Index</h2>
+
+
+<h3>Welcome</h3>
+<hr />
+<p> Doing ordinary things extra ordinarily...</p>
+<!-- html helper functions-->
+<!-- html helpers are server side function which generates html to be sent to browser as response-->
+@Html.ActionLink("Home", "/index") |  @Html.ActionLink("Aboutus", "/aboutus") |@Html.ActionLink("Contact us", "/contactus")|@Html.ActionLink("Services", "/services")|<a href="/account/login">Login</a>
+<ol>
+    @{
+        List<string> names = new List<string>();
+        names.Add("Gerbera");
+        names.Add("Rose");
+        names.Add("Lily");
+        names.Add("Lotus");
+        names.Add("Carnation");
+        foreach (string name in names)
+        {
+            <li>@name</li>
+        }
+    }
+</ol>
+

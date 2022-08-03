@@ -1,0 +1,16 @@
+﻿@using TestWeb.Models;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>My Shopping Cart</h2>
+
+@{ 
+    Cart theCart =(Cart) ViewData["theCart"];
+    foreach( Item item in theCart.Items)
+            {
+                <p> @item.Product : @item.Quantity  <a href="~/shoppingcart/removefromcart/@item.Product">Remove</a></p>
+            }
+
+}

@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Services";
+}
+
+<h2>Services</h2>
+
+
+<a href="/home/career">career</a>
+<hr />
+
+<hr />
+@{
+    List<string> ourServices = this.TempData["services"] as List<string>;
+    <ul>
+        @foreach (string service in ourServices)
+        {
+            <li>@service</li>
+        }
+    </ul>
+
+}
+
