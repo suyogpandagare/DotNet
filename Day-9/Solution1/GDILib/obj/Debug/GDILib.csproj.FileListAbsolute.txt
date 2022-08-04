@@ -1,0 +1,6 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\GDILib\bin\Debug\GDILib.dll
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\GDILib\bin\Debug\GDILib.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\GDILib\obj\Debug\GDILib.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\GDILib\obj\Debug\GDILib.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\GDILib\obj\Debug\GDILib.dll
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\GDILib\obj\Debug\GDILib.pdb

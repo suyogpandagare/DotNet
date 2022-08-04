@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\ReflectionDemoapp\bin\Debug\ReflectionDemoapp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\ReflectionDemoapp\bin\Debug\ReflectionDemoapp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\ReflectionDemoapp\bin\Debug\ReflectionDemoapp.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\ReflectionDemoapp\obj\Debug\ReflectionDemoapp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\ReflectionDemoapp\obj\Debug\ReflectionDemoapp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\ReflectionDemoapp\obj\Debug\ReflectionDemoapp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\ReflectionDemoapp\obj\Debug\ReflectionDemoapp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_9\Solution1\ReflectionDemoapp\obj\Debug\ReflectionDemoapp.pdb

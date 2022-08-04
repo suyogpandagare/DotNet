@@ -1,0 +1,16 @@
+﻿@using ECommerce.Models;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>All Employees</h2>
+
+
+@{ 
+    List<Employee> employees = (List<Employee>)ViewData["employees"];
+    foreach( Employee emp in employees)
+            {
+                <p> @emp.Name</p>
+            }
+}
