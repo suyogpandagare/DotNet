@@ -1,0 +1,16 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\CollectionDemo\bin\Debug\CollectionDemo.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\CollectionDemo\bin\Debug\CollectionDemo.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.pdb
+E:\DotNet\Day-12\TestSolution\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+E:\DotNet\Day-12\TestSolution\CollectionDemo\bin\Debug\CollectionDemo.exe
+E:\DotNet\Day-12\TestSolution\CollectionDemo\bin\Debug\CollectionDemo.pdb
+E:\DotNet\Day-12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.csproj.AssemblyReference.cache
+E:\DotNet\Day-12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\Day-12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.exe
+E:\DotNet\Day-12\TestSolution\CollectionDemo\obj\Debug\CollectionDemo.pdb

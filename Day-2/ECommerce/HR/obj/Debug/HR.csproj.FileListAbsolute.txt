@@ -1,0 +1,6 @@
+E:\DotNet\Day-2\ECommerce\HR\bin\Debug\HR.dll
+E:\DotNet\Day-2\ECommerce\HR\bin\Debug\HR.pdb
+E:\DotNet\Day-2\ECommerce\HR\obj\Debug\HR.csproj.AssemblyReference.cache
+E:\DotNet\Day-2\ECommerce\HR\obj\Debug\HR.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-2\ECommerce\HR\obj\Debug\HR.dll
+E:\DotNet\Day-2\ECommerce\HR\obj\Debug\HR.pdb

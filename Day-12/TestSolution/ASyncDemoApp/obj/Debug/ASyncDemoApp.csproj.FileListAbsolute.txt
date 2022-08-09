@@ -1,0 +1,16 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\ASyncDemoApp\bin\Debug\ASyncDemoApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\ASyncDemoApp\bin\Debug\ASyncDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\ASyncDemoApp\bin\Debug\ASyncDemoApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.pdb
+E:\DotNet\Day-12\TestSolution\ASyncDemoApp\bin\Debug\ASyncDemoApp.exe.config
+E:\DotNet\Day-12\TestSolution\ASyncDemoApp\bin\Debug\ASyncDemoApp.exe
+E:\DotNet\Day-12\TestSolution\ASyncDemoApp\bin\Debug\ASyncDemoApp.pdb
+E:\DotNet\Day-12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.csproj.AssemblyReference.cache
+E:\DotNet\Day-12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\Day-12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.exe
+E:\DotNet\Day-12\TestSolution\ASyncDemoApp\obj\Debug\ASyncDemoApp.pdb

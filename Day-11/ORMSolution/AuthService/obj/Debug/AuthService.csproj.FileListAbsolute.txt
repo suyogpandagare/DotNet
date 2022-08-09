@@ -1,0 +1,7 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\AuthService\bin\AuthService.dll.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\AuthService\bin\AuthService.dll
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\AuthService\bin\AuthService.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\AuthService\obj\Debug\AuthService.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\AuthService\obj\Debug\AuthService.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\AuthService\obj\Debug\AuthService.dll
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\AuthService\obj\Debug\AuthService.pdb

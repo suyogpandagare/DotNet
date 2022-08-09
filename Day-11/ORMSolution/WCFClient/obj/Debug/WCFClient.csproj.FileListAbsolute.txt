@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\WCFClient\bin\Debug\WCFClient.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\WCFClient\bin\Debug\WCFClient.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\WCFClient\bin\Debug\WCFClient.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\WCFClient\obj\Debug\WCFClient.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\WCFClient\obj\Debug\WCFClient.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\WCFClient\obj\Debug\WCFClient.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_11\ORMSolution\WCFClient\obj\Debug\WCFClient.pdb

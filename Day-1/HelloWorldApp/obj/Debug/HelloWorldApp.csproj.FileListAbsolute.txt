@@ -1,0 +1,8 @@
+E:\DotNet\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+E:\DotNet\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+E:\DotNet\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+E:\DotNet\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+E:\DotNet\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+E:\DotNet\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+E:\DotNet\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_10\DataSolution\LINQDemoApp\bin\Debug\LINQDemoApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_10\DataSolution\LINQDemoApp\bin\Debug\LINQDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_10\DataSolution\LINQDemoApp\bin\Debug\LINQDemoApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_10\DataSolution\LINQDemoApp\obj\Debug\LINQDemoApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_10\DataSolution\LINQDemoApp\obj\Debug\LINQDemoApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_10\DataSolution\LINQDemoApp\obj\Debug\LINQDemoApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_10\DataSolution\LINQDemoApp\obj\Debug\LINQDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_10\DataSolution\LINQDemoApp\obj\Debug\LINQDemoApp.pdb

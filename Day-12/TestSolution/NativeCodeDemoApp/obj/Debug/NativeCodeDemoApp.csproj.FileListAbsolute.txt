@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\NativeCodeDemoApp\bin\Debug\NativeCodeDemoApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\NativeCodeDemoApp\bin\Debug\NativeCodeDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\NativeCodeDemoApp\bin\Debug\NativeCodeDemoApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\NativeCodeDemoApp\obj\Debug\NativeCodeDemoApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\NativeCodeDemoApp\obj\Debug\NativeCodeDemoApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\NativeCodeDemoApp\obj\Debug\NativeCodeDemoApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\NativeCodeDemoApp\obj\Debug\NativeCodeDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\IET_March22\Dotnet\Day_12\TestSolution\NativeCodeDemoApp\obj\Debug\NativeCodeDemoApp.pdb

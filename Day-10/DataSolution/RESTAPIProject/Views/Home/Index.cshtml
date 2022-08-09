@@ -1,0 +1,78 @@
+﻿<div class="jumbotron">
+    <h1>Employee Portal</h1>
+    <p class="lead"> KISS : Keep it Simple and Stupid</p>
+</div>
+<div class="row">
+    <h2>Todays Flowers</h2>
+    <ol id="list">
+    </ol>
+    <hr />
+    <a href="/products/insert">Insert new Flower</a>
+    <br />
+    <hr />
+    <input type="number" id="txtnumber" />
+    <button id="btn"> Get Employee</button>
+
+    <h3>Best Employee of Month</h3>
+    <br />
+    
+    <p id="lid"></p>
+    <p id="ltitle"></p>
+
+    <p id="ldescription"></p>
+    <p id="lunitprice"></p>
+    <p id="lquantity"></p>
+
+</div>
+ 
+
+<script>
+    //
+
+    //invoke rest API
+    //Data Binding
+    //Asynchronous Javascript
+
+    //Non blocking call
+
+    $.ajax({
+        url: "/api/employees",
+        method: "GET",
+        contentType: "text/json",
+        success: (data) => {
+            for (var i = 0; i <= data.length; i++) {
+                $("#list").append("<li>" + data[i].Name + "</li>");
+            }
+        },
+        error: () => {
+            console.log("something has gone Wrong..");
+        }
+    })
+
+    console.log("Hi I am getting called before data arrived.")
+
+    $("#btn").click(() => {
+        var id = $("#txtnumber").val();
+        $.ajax({
+            url: "/api/employees/" + id,
+            method: "GET",
+            contentType: "text/json",
+            success: (employee) => {
+                $("#lid").html(employee.ID);
+                $("#ltitle").html(employee.Name);
+                $("#ldescription").html(employee.Designation);
+                $("#lunitprice").html(employee.Salary);
+            },
+            error: () => {
+                console.log("something has gone Wrong..");
+            }
+
+        })
+
+    });
+
+
+
+
+
+</script>

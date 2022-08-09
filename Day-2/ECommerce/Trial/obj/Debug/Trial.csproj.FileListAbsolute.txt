@@ -1,0 +1,3 @@
+E:\DotNet\Day-2\ECommerce\Trial\obj\Debug\Trial.csproj.AssemblyReference.cache
+E:\DotNet\Day-2\ECommerce\Trial\obj\Debug\Trial.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\Day-2\ECommerce\Trial\obj\Debug\Trial.csproj.CoreCompileInputs.cache

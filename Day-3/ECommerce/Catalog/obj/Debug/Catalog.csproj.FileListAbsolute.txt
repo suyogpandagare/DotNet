@@ -1,0 +1,6 @@
+E:\DotNet\Day-3\ECommerce\Catalog\obj\Debug\Catalog.csproj.AssemblyReference.cache
+E:\DotNet\Day-3\ECommerce\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-3\ECommerce\Catalog\bin\Debug\Catalog.dll
+E:\DotNet\Day-3\ECommerce\Catalog\bin\Debug\Catalog.pdb
+E:\DotNet\Day-3\ECommerce\Catalog\obj\Debug\Catalog.dll
+E:\DotNet\Day-3\ECommerce\Catalog\obj\Debug\Catalog.pdb

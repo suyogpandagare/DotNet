@@ -1,0 +1,13 @@
+E:\DotNet\Day-2\ECommerce\Tester\bin\Debug\Tester.exe.config
+E:\DotNet\Day-2\ECommerce\Tester\bin\Debug\Tester.exe
+E:\DotNet\Day-2\ECommerce\Tester\bin\Debug\Tester.pdb
+E:\DotNet\Day-2\ECommerce\Tester\obj\Debug\Tester.csproj.AssemblyReference.cache
+E:\DotNet\Day-2\ECommerce\Tester\obj\Debug\Tester.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\Day-2\ECommerce\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-2\ECommerce\Tester\obj\Debug\Tester.exe
+E:\DotNet\Day-2\ECommerce\Tester\obj\Debug\Tester.pdb
+E:\DotNet\Day-2\ECommerce\Tester\bin\Debug\Banking.dll
+E:\DotNet\Day-2\ECommerce\Tester\bin\Debug\HR.dll
+E:\DotNet\Day-2\ECommerce\Tester\bin\Debug\Banking.pdb
+E:\DotNet\Day-2\ECommerce\Tester\bin\Debug\HR.pdb
+E:\DotNet\Day-2\ECommerce\Tester\obj\Debug\Tester.csproj.CopyComplete

@@ -1,0 +1,16 @@
+E:\DotNet\Example1\obj\Debug\Example1.csproj.AssemblyReference.cache
+E:\DotNet\Example1\obj\Debug\Example1.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+E:\DotNet\Example1\bin\Debug\Example1.exe.config
+E:\DotNet\Example1\bin\Debug\Example1.exe
+E:\DotNet\Example1\bin\Debug\Example1.pdb
+E:\DotNet\Example1\obj\Debug\Example1.exe
+E:\DotNet\Example1\obj\Debug\Example1.pdb
+E:\DotNet\Day-1\Example1\bin\Debug\Example1.exe.config
+E:\DotNet\Day-1\Example1\bin\Debug\Example1.exe
+E:\DotNet\Day-1\Example1\bin\Debug\Example1.pdb
+E:\DotNet\Day-1\Example1\obj\Debug\Example1.csproj.AssemblyReference.cache
+E:\DotNet\Day-1\Example1\obj\Debug\Example1.csproj.SuggestedBindingRedirects.cache
+E:\DotNet\Day-1\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-1\Example1\obj\Debug\Example1.exe
+E:\DotNet\Day-1\Example1\obj\Debug\Example1.pdb

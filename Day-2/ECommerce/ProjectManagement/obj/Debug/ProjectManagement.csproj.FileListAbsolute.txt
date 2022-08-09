@@ -1,0 +1,9 @@
+E:\DotNet\Day-2\ECommerce\ProjectManagement\bin\Debug\ProjectManagement.dll
+E:\DotNet\Day-2\ECommerce\ProjectManagement\bin\Debug\ProjectManagement.pdb
+E:\DotNet\Day-2\ECommerce\ProjectManagement\bin\Debug\HR.dll
+E:\DotNet\Day-2\ECommerce\ProjectManagement\bin\Debug\HR.pdb
+E:\DotNet\Day-2\ECommerce\ProjectManagement\obj\Debug\ProjectManagement.csproj.AssemblyReference.cache
+E:\DotNet\Day-2\ECommerce\ProjectManagement\obj\Debug\ProjectManagement.csproj.CoreCompileInputs.cache
+E:\DotNet\Day-2\ECommerce\ProjectManagement\obj\Debug\ProjectManagement.csproj.CopyComplete
+E:\DotNet\Day-2\ECommerce\ProjectManagement\obj\Debug\ProjectManagement.dll
+E:\DotNet\Day-2\ECommerce\ProjectManagement\obj\Debug\ProjectManagement.pdb
